@@ -1,6 +1,6 @@
 
 # Site settings
-title: Meow
+title: '香蕉貓的部落格'
 email: kenaser12345@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
