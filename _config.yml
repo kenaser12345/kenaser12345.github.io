@@ -3,7 +3,7 @@
 title: Meow
 email: kenaser12345@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://banacat.tk/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
